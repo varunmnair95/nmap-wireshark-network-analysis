@@ -43,10 +43,10 @@ The lab uses a direct virtual network between Kali Linux and Windows 11.
 
 The current lab addressing is:
 
-| System        | IP Address       |
-| ------------- | ---------------- |
-| 🐧 Kali Linux | `192.168.128.3` |
-| 🪟 Windows 11 | `192.168.128.4` |
+| System        | IP Address       |Role       |
+| ------------- | ---------------- |---------------- |
+| 🐧 Kali Linux | `192.168.128.3` |Analysis/ Scanning| 
+| 🪟 Windows 11 | `192.168.128.4` |Target |
 
 The environment is intended only for controlled testing between the two lab systems.
 
