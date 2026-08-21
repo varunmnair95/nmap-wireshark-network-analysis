@@ -73,7 +73,7 @@ For ports where no response was observed, Nmap reported the ports as filtered.
 
 ---
 
-## 📸 [Evidence](https://github.com/varunmnair95/nmap-wireshark-network-analysis/tree/main/experiments/02-port-scanning)
+## 📸 [Evidence](https://github.com/varunmnair95/nmap-wireshark-network-analysis/tree/main/experiments/02-port-scanning/evidence)
 
 * `01-nmap-port-scanning.png` — Nmap scan result
 * `02-wireshark-capture-port-scanning.png` — Wireshark capture showing TCP SYN probes
